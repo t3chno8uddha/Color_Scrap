@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 79b0bf91ed473944f93be30b58c5fc25
+  m_SerializeEntries:
+  - m_GUID: e60740ec1d67cb942afdd61087416ab5
+    m_Address: Assets/Art/Animation/_Piece.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6fbc84651646cb4a9e1a9a883f543a7
+    m_Address: Assets/Art/Animation/Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93447d31664a2d74a860eec4d2eaf9fb
+    m_Address: Assets/Art/Animation/Release.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f672734bc243aea43badb2679981831a
+    m_Address: Assets/Art/Animation/Hold.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 181023475a2291643bd9bad336d546cf
+    m_Address: Assets/Art/Materials/Scrap Particle.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ac4ae853e6bc74b9a8f30cc85c17cb
+    m_Address: Assets/Art/Materials/Artwork/Octopus.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9ea44ead2af8d34e91f82883de26d6e
+    m_Address: Assets/Art/Materials/Artwork/Bunny.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43be7ddd64056a64bb93142fcfa05c98
+    m_Address: Assets/Art/Materials/Artwork/Dog.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 004c3315db684f74d8454b0d0017acf7
+    m_Address: Assets/Art/Materials/Scrap Mask.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 610466cf09719f84f9742543ff9fda54
+    m_Address: Assets/Art/Sprites/Artworks/Bunny/B_Coloured.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dcd9f6c42a3bdf498225f3b87e355b3
+    m_Address: Assets/Art/Sprites/Artworks/Bunny/B_Border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c9b379d34e37e94fa8acb8ffcbf7f28
+    m_Address: Assets/Art/Sprites/Artworks/Bunny/B_Monochrome.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b799e4a733fdd584b89301fb18a7f73d
+    m_Address: Assets/Art/Sprites/Artworks/Bunny/B_Puzzle.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7364bf3bc99e1ba4895d528401f33408
+    m_Address: Assets/Art/Sprites/Artworks/Dog/D_Coloured.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73ae3b677d4adc14fbc18684c3427365
+    m_Address: Assets/Art/Sprites/Artworks/Dog/D_Border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d80a907b9c8ef34fafb811162358bac
+    m_Address: Assets/Art/Sprites/Artworks/Dog/D_Monochrome.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 849ba90bfd2ac964ab8e9902a49929aa
+    m_Address: Assets/Art/Sprites/Artworks/Dog/D_Puzzle.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf17587470c154448f2123c5b682b7a
+    m_Address: Assets/Art/Sprites/Artworks/Octopus/O_Monochrome.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 940b5a0eca70a124fa62ce891db2af6c
+    m_Address: Assets/Art/Sprites/Artworks/Octopus/O_Coloured.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5db42d2798ba3142ae3bc7337ac8f0b
+    m_Address: Assets/Art/Sprites/Artworks/Octopus/O_Border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0e6d6e3d6ea622449b7f79d37615254
+    m_Address: Assets/Art/Sprites/Artworks/Octopus/O_Puzzle.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0ac803bfa944c4cae88bc2a988e661
+    m_Address: Assets/Art/Sprites/Backgrounds/Airborne.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54eaa90bba9ee9c498719b8768ee0bd4
+    m_Address: Assets/Art/Sprites/Backgrounds/Lake.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8ebb074830a07c49950c5d4f582dd6c
+    m_Address: Assets/Art/Sprites/Backgrounds/Underwater.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccdc9739b21840a458353a3a9d7f3745
+    m_Address: Assets/Art/Sprites/Scrap.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d81dee20d1f07f4b8ea034bf718e05e
+    m_Address: Assets/Art/Scrap Complete Check.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13ebcad99dbc54a48b3d4523b07fb548
+    m_Address: Assets/Gameplay/Code/Shaders/Scrap Mask.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 718bed70e7b45fd4997c29432a0ed90b
+    m_Address: Assets/Gameplay/Code/Shaders/ScrapArtwork.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e2879b7c3a9c374ab7c8040a2e3de6a
+    m_Address: Assets/Gameplay/Code/Shaders/ScrapParticle.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97adcc5fe51fd7a468f3218373e95bb9
+    m_Address: Assets/Gameplay/Code/Shaders/Scrap Comparison.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbe25768bf15d6640b65d39c4f557726
+    m_Address: Assets/KIDSGameLibrary/Animations/Snapanim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b6451164a9c9ce47a4d75a0842ed5a6
+    m_Address: Assets/KIDSGameLibrary/Animations/SnapAnimator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6053f426dc1dd184ea3e61a4b08acaec
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Conffetti 2x3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5282c50d2ccdd5418ae36712b9075de
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Glow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c22afd6a3793d24fa9b9e0e74b2c08b
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/GlowSparks 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75c47f8f12972974db4305e1f64765a1
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Glow 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a71b889c76c87f4428a30a2495380f91
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Star 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc98a8ebda6c80c49962c72a409c9139
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Star.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c5b8919f167a874aaf305771a616928
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Conffetti 2x3 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b49138b9032f4468ae07840ba77745
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/Conffetti.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4b54e6f8502f7a429b0c8d7317d9719
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/ConffettiImpact.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee8eedda74351d488fc5869b035803c
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/Firework.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccbb7a3733ae298458e202acef4a9d0c
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/Stars.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa2d36b6d176f2244b31c10f59121209
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Shaders/ParticlesHDR_Add.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74769a5a0c588104c8b339327f550619
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Conffetti 2x3 (1).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055bb2cd62e17014786706c24bfc07fe
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Conffetti 2x3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6433a8ab38e736479dcdbe9a7009c3f
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/progress_bar Tex.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd3f0615763d44347808ed0cf9b8bf99
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Star.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c868fd0e760b4d3488c4cc6f520f81c5
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Small Glow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b772c66efddad2743ba3ea62c7da16ce
+    m_Address: Assets/KIDSGameLibrary/Data/Default Sound Profile.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 681886c5eb7344803b6206f758bf0b1c
+    m_Address: Assets/Settings/Pipeline Asset.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9272cc08e31a2f74ead8296a4bc3a11f
+    m_Address: Assets/Settings/Renderer Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b439a37f63240aca3dd4e01d978a9f
+    m_Address: Assets/Settings/URP Global Settings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bba5200fbc60c9545894209fa03646d2
+    m_Address: EntryPointPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3b3e51e3ec98e84ba1674a673147350
+    m_Address: EntryPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0834090ced6e494f8df2a8995771542
+    m_Address: Assets/Color_Scrap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23f0463ab86edfb46829a539c2343b2a
+    m_Address: Assets/Color_Scrap/Runtime
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bc069b1f3fe2ea42aa5a315ea3675a1
+    m_Address: Assets/Color_Scrap/Runtime/Scripts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96eabaaf12340df49aa7e2d543da864b
+    m_Address: Assets/ColorScrap.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 677eb23be39a47949901ada8aad8415b
+    m_Address: Assets/Color_Scrap/Runtime/MiniGameConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 35abf936b06a34143bd78474dfa7f0c3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6ec80e2a2cca3034f9269a23a2b2c8a5, type: 2}
+    - {fileID: 11400000, guid: 9be4ac104180d4e41acc6cd890628181, type: 2}
