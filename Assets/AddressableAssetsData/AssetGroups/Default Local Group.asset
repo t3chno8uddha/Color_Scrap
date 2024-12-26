@@ -267,16 +267,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 681886c5eb7344803b6206f758bf0b1c
-    m_Address: Assets/Settings/Pipeline Asset.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9272cc08e31a2f74ead8296a4bc3a11f
-    m_Address: Assets/Settings/Renderer Data.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 93b439a37f63240aca3dd4e01d978a9f
     m_Address: Assets/Settings/URP Global Settings.asset
     m_ReadOnly: 0
@@ -297,23 +287,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 23f0463ab86edfb46829a539c2343b2a
-    m_Address: Assets/Color_Scrap/Runtime
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5bc069b1f3fe2ea42aa5a315ea3675a1
-    m_Address: Assets/Color_Scrap/Runtime/Scripts
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 96eabaaf12340df49aa7e2d543da864b
     m_Address: Assets/ColorScrap.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 677eb23be39a47949901ada8aad8415b
-    m_Address: Assets/Color_Scrap/Runtime/MiniGameConfig.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
